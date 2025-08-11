@@ -24,7 +24,7 @@
 									born, raised, and transferred
 								</span>
 							</span>,
-							who has spent my childhood in 9 different schools in 7 cities all over india. currently, i'm an undergrad studying data science in finland.
+							who has spent my childhood in 9 different schools in 7 cities all over india. currently, i'm an undergrad at <a href="https://youtu.be/MShbP3OpASA?si=2S4O7T4Cwfd9VN0g&t=2997" target="_blank">aalto</a> in finland.
 						</p>
 
                         <br/><br/>
@@ -46,7 +46,7 @@
                             <li>- <a href="https://aaltoes.com" target="_blank">aaltoes.com</a>: organising hackathons and pushing build culture.</li>
                             <li>- <a href="https://burrow.wtf" target="_blank">burrow.wtf</a>: fun game to go down rabbit holes.</li>
                             <li>- <a href="https://getnabla.xyz" target="_blank">getnabla.xyz</a>: finding aliens faster than ever.</li>
-                            <li>- <a href="https://aalto.fi" target="_blank">aalto.fi</a>: bs data science + quantum tech.</li>   
+                            <li>- <a href="https://aalto.fi/en" target="_blank">aalto.fi</a>: bs data science + quantum tech.</li>   
                         </ul>
 
                     </main>
