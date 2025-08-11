@@ -8,14 +8,14 @@
 	<nav class="navbar">
 		<div class="navbar-left">:)</div>
 		<div class="navbar-right">
-			<a href="/micro-essays" class="nav-link">mini(essays)</a>
+			<a href="/essays" class="nav-link">mini(essays)</a>
 			<a href="/socials" class="nav-link">socials</a>
 			<!-- <a href="javascript:void(0)" class="nav-link">placeholder</a> -->
 		</div>
 	</nav>
 		<main style="margin-top:2.5rem;">
 			<h1>YO — ADIT HERE :D</h1>
-						<p>i'm a 19y/o undergrad in finland. as an army 
+						<p>i'm an army 
 							<span class="tooltip-underline">
 								brat
 								<span class="tooltip-box">
@@ -24,7 +24,7 @@
 									born, raised, and transferred
 								</span>
 							</span>,
-							i spent my childhood in 9 different schools in 7 cities all over india.
+							who has spent my childhood in 9 different schools in 7 cities all over india. currently, i'm an undergrad studying data science in finland.
 						</p>
 
                         <br/><br/>
@@ -34,7 +34,7 @@
                             <li>- waited 25 min in the parking to meet andrew ng at <a href="https://events.ycombinator.com/ai-sus" target="_blank">yc ai sus</a>.</li>
                             <li>- presented compling research at nml workshop @ neurips'23.</li>
                             <li>- finalist at national science fair (top 1% of 10,000+).</li>
-                            <li>- attended linguistics camp at ohio state on $1100 scholly.</li>
+                            <li>- attended <a href="https://linguistics.osu.edu/undergrad/sliys" target="_blank">linguistics camp</a> at ohio state on $1100 scholly.</li>
                             <li>- opened a lemonade stand when i was 9 and somehow made a loss.</li>
                         </ul>
 
@@ -44,6 +44,9 @@
                         <ul>
                             <li>- <a href="https://paebbl.com" target="_blank">paebbl.com</a>: building bedrock kbs, mcp servers, and ai agents.</li>
                             <li>- <a href="https://aaltoes.com" target="_blank">aaltoes.com</a>: organising hackathons and pushing build culture.</li>
+                            <li>- <a href="https://burrow.wtf" target="_blank">burrow.wtf</a>: fun game to go down rabbit holes.</li>
+                            <li>- <a href="https://getnabla.xyz" target="_blank">getnabla.xyz</a>: finding aliens faster than ever.</li>
+                            <li>- <a href="https://aalto.fi" target="_blank">aalto.fi</a>: bs data science + quantum tech.</li>   
                         </ul>
 
                     </main>
