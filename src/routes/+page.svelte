@@ -16,14 +16,18 @@
 		</div>
 		<div class="navbar-right">
 			<!-- <a href="/essays" class="nav-link">home</a> -->
-			<a href="/essays" class="nav-link">random(thoughts)</a>
-			<a href="/socials" class="nav-link">say(hi)</a>
+			<a href="/archive" class="nav-link">random(archive)</a>
+			<a href="/hi" class="nav-link">say(hi)</a>
 			<!-- <a href="javascript:void(0)" class="nav-link">placeholder</a> -->
 		</div>
 	</nav>
 		<main style="margin-top:2.5rem;">
-			<!-- <h1>YO — ADIT HERE :D</h1> -->
-			 <h1>ADIT | आदित <!-- ADD SUPPORT FOR NOTO SANS DOGRA HERE --></h1>
+			 <h1>
+				ADIT • आदित •
+				<span class="dogra-text">
+					𑠁𑠛𑠭𑠙
+				</span>
+			</h1>
 			<p>i’m a 19y/o army 
 							<span class="tooltip-underline">
 								brat
@@ -63,7 +67,7 @@
                             <li>- <a href="https://aaltoes.com" target="_blank">aaltoes.com</a>: organising hackathons and pushing build culture.</li>
                             <li>- <a href="https://burrow.wtf" target="_blank">burrow.wtf</a>: chrome ext to auto login with a temp mail.</li>
                             <li>- <a href="https://kaggle.com" target="_blank">kaggle.com</a>: working on some really fun comps with friends.</li>
-                            <li>- <a href="https://aalto.fi/en" target="_blank">aalto.fi</a>: bs data science + quantum tech.</li>   
+                            <li>- <a href="https://aalto.fi/en" target="_blank">aalto.fi</a>: bs data science + quantum/space tech. </li>   
                         </ul>
 
 						<br/><br/>
@@ -79,7 +83,7 @@
 								- tom blueprinting the perfect mousetrap. <br/>
 								- mr. fox welding the evening away in his workshop. <br/><br/>
 
-								that's the high i've been chasing ever since -- mini hot air balloons, msw logo programs, 
+								that's the high i've been chasing ever since -- mini hot air balloons, msw logo donut generators, lemonade stands, solar powered toy boats... before finally teaching myself to code at 12.
 
 				
 								
@@ -94,8 +98,8 @@
                         <p><b>PREVIOUS WORK</b></p>
                         <ul>
                             <li>- <a href="https://smu.edu.sg" target="_blank">smu.edu.sg</a>: intern @ social nlp lab under dr wei gao.</li>
-                            <li>- <a href="#" target="_blank">projectbeta.club</a>: tech/startup club president.</li>
-                            <li>- <a href="#" target="_blank">slingshotahead.com</a>: growth/community — 10xed their discord.</li>  
+                            <li>- <a href="https://web.archive.org/web/20240727225148/https://projectbeta.club/" target="_blank">projectbeta.club</a>: tech/startup club president.</li>
+                            <li>- <a href="https://web.archive.org/web/20220125185014/https://slingshotahead.com/" target="_blank">slingshotahead.com</a>: growth/community — 10xed their discord.</li>  
                         </ul>
 
 						<br/><br/>
@@ -234,5 +238,13 @@
 		box-sizing: border-box;
 		font-size: 14px;
 		color: #222;
+	}
+	.dogra-text {
+		font-family: 'Noto Serif Dogra', serif;
+		font-size: 20px;
+		vertical-align: middle;
+		margin-left: 0.5em;
+		letter-spacing: normal;
+		font-weight: 700;
 	}
 </style>
