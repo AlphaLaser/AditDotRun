@@ -2,12 +2,12 @@
   // Placeholder for essays data
   const essays = [
     {
-      title: 'You Only Get One Shot',
+      title: 'YOU ONLY GET ONE SHOT',
       month: 'August 2025',
       summary: 'do not miss a chance to blow.'
     },
     {
-      title: 'Air Jordans, Purple Sunbirds, and Nancy Sinatra.',
+      title: 'AIR JORDANS, PURPLE SUNBIRDS, AND NANCY SINATRA.',
       month: 'Jan 2024',
       summary: 'my commonapp essay :)'
     }
@@ -22,12 +22,18 @@
 
 <div class="thin-centered">
   <nav class="navbar">
-    <div class="navbar-left">:)</div>
-    <div class="navbar-right">
-      <a href="/micro-essays" class="nav-link">mini(essays)</a>
-      <a href="/socials" class="nav-link">socials</a>
-    </div>
-  </nav>
+		<div class="navbar-left">
+			<a href="/" class="brand-link">
+			  adit.run()
+			</a>
+		</div>
+		<div class="navbar-right">
+			<!-- <a href="/essays" class="nav-link">home</a> -->
+			<a href="/essays" class="nav-link">mini(essays)</a>
+			<a href="/socials" class="nav-link">say(hi)</a>
+			<!-- <a href="javascript:void(0)" class="nav-link">placeholder</a> -->
+		</div>
+	</nav>
   <br/>
   <div class="essays-header">"bro thinks he's paul graham"</div>
   {#each Object.keys(grouped) as month}
