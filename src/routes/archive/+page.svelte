@@ -1,3 +1,26 @@
+<script>
+  import { onMount } from "svelte";
+
+  let song = null;
+  let loading = true;
+  let error = null;
+
+  onMount(async () => {
+    try {
+      const res = await fetch(
+        "https://lastfm-last-played.biancarosa.com.br/The_AlphaLaser/latest-song"
+      );
+      if (!res.ok) throw new Error("Failed to fetch song");
+
+      song = await res.json();
+    } catch (err) {
+      error = err.message;
+    } finally {
+      loading = false;
+    }
+  });
+</script>
+
 <div class="thin-centered">
 	<nav class="navbar">
 		<div class="navbar-left">
@@ -14,6 +37,22 @@
 	</nav>
     <br/><br/>
 
+    <center>
+		⚒️ under construction ⚒️
+    </center>
+
+	<br/><br/>
+
+{#if loading}
+  <p>Loading latest song...</p>
+{:else if error}
+  <p style="color: red;">Error: {error}</p>
+{:else}
+  <div class="song">
+    <h1>Last Played Song: {song.track.name} by {song.track.artist["#text"]}</h1>
+
+  </div>
+{/if}
 </div>
 
 <style>
@@ -121,5 +160,21 @@
 	@keyframes fadeIn {
 		from { opacity: 0; transform: translateX(-50%) translateY(10px); }
 		to { opacity: 1; transform: translateX(-50%) translateY(0); }
+	}
+	.lastfm-box {
+		background: #f7f7f8;
+		border-radius: 10px;
+		border: 1px solid #e0e0e0;
+		padding: 1rem 1.2rem;
+		margin: 0 auto 2rem auto;
+		max-width: 350px;
+		text-align: center;
+	}
+	.album-art {
+		width: 64px;
+		height: 64px;
+		object-fit: cover;
+		border-radius: 6px;
+		margin: 0.5rem 0;
 	}
 </style>
