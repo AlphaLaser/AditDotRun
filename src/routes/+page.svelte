@@ -1,5 +1,9 @@
 <svelte:head>
 	<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet" />
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Noto+Serif+Dogra&display=swap" rel="stylesheet">
+
 </svelte:head>
 
 
@@ -7,7 +11,7 @@
 	<nav class="navbar">
 		<div class="navbar-left">
 			<a href="/" class="brand-link">
-			  adit.run(🇮🇳,🇫🇮)
+			  adit.run()
 			</a>
 		</div>
 		<div class="navbar-right">
@@ -19,7 +23,7 @@
 	</nav>
 		<main style="margin-top:2.5rem;">
 			<!-- <h1>YO — ADIT HERE :D</h1> -->
-			 <h1>ADIT | आदित </h1>
+			 <h1>ADIT | आदित <!-- ADD SUPPORT FOR NOTO SANS DOGRA HERE --></h1>
 			<p>i’m a 19y/o army 
 							<span class="tooltip-underline">
 								brat
@@ -61,6 +65,29 @@
                             <li>- <a href="https://kaggle.com" target="_blank">kaggle.com</a>: working on some really fun comps with friends.</li>
                             <li>- <a href="https://aalto.fi/en" target="_blank">aalto.fi</a>: bs data science + quantum tech.</li>   
                         </ul>
+
+						<br/><br/>
+
+						<!-- New light grey text box above previous work section -->
+						<div class="custom-text-box">
+							<!-- Put your text here -->
+							<p>i've been a huge fan of cartoons for as long as i can remember. 
+								when i look back, i realise how much i loved it when the 
+								characters just built things: <br/><br/>
+								- mr. bean and super trolley with a BILLION features. <br/>	
+								- phineas and ferb's nanobots. <br/>
+								- tom blueprinting the perfect mousetrap. <br/>
+								- mr. fox welding the evening away in his workshop. <br/><br/>
+
+								that's the high i've been chasing ever since -- mini hot air balloons, msw logo programs, 
+
+				
+								
+
+								
+							
+							</p>
+						</div>
 
 						<br/><br/>
 
@@ -198,5 +225,14 @@
 	.brand-link:hover {
 		color: #222;
 		text-decoration: none;
+	}
+	.custom-text-box {
+		background: #f7f7f8;
+		border-radius: 0px;
+		padding: 1.2rem 1.5rem;
+		margin: 0 auto;
+		box-sizing: border-box;
+		font-size: 14px;
+		color: #222;
 	}
 </style>
