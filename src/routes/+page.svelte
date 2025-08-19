@@ -104,6 +104,19 @@
 
 						<br/><br/>
 
+						<p><b>PROJECTS</b></p>
+                        <ul>
+                            <li>- <a href="#" target="_blank">zapforms</a>: tried replacing typeforms with ai and failed :)</li>
+                            <li>- <a href="https://outrageous-web-3bd.notion.site/Beezy-9f1497061a8442678f5c4fef34f1347d" target="_blank">beezy</a>: gmeet -> todo list in real time. lead to research.</li>
+                            <li>- <a href="https://www.kaggle.com/datasets/aditmagotra/gameplay-images" target="_blank">dataset</a>: 10k views, 1k downloads, kaggle silver medal.</li>  
+							<li>- <a href="https://github.com/AlphaLaser/ParaTools" target="_blank">paratools</a>: simple summarization + qa but got me noticed :D</li>
+							<li>- <a href="https://www.reddit.com/r/ProgrammerHumor/comments/15spru2/megoingthroughsomeonesrecursivecode/" target="_blank">comic sans</a>: made a handful of comic strips with friends. got 300k+ views just by posting in the correct places.</li>
+                        </ul>
+
+						<br/><br/>
+
+						i hope to eventually make hyperrealistic robot dinosaurs and open a real jurassic park.
+
                     </main>
 </div>
 
