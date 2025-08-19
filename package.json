@@ -23,6 +23,7 @@
 		"vite": "^7.0.4"
 	},
 	"dependencies": {
+		"@vercel/analytics": "^1.5.0",
 		"svelte-twitter-emoji": "^1.0.2"
 	}
 }
