@@ -64,10 +64,10 @@
                         <p><b>WHAT IM UPTO RN</b></p>
                         <ul>
                             <li>- <a href="https://paebbl.com" target="_blank">paebbl.com</a>: building bedrock kbs, mcp servers, and ai agents.</li>
-                            <li>- <a href="https://aaltoes.com" target="_blank">aaltoes.com</a>: organising hackathons and pushing build culture.</li>
+                            <li>- <a href="https://aaltoes.com" target="_blank">aaltoes.com</a>: founder school + project lead @ build it.</li>
                             <li>- <a href="https://burrow.wtf" target="_blank">burrow.wtf</a>: chrome ext to auto login with a temp mail.</li>
                             <li>- <a href="https://kaggle.com" target="_blank">kaggle.com</a>: working on some really fun comps with friends.</li>
-                            <li>- <a href="https://aalto.fi/en" target="_blank">aalto.fi</a>: bs data science + quantum/space tech. </li>   
+                            <li>- <a href="https://aalto.fi/en" target="_blank">aalto.fi</a>: bs data science + space tech. </li>   
                         </ul>
 
 						<br/><br/>
@@ -78,7 +78,7 @@
 							<p>i've been a huge fan of cartoons for as long as i can remember. 
 								when i look back, i realise how much i loved it when the 
 								characters just built things: <br/><br/>
-								- mr. bean and super trolley with a BILLION features. <br/>	
+								- mr. bean and his super trolley with a BILLION features. <br/>	
 								- phineas and ferb's nanobots. <br/>
 								- tom blueprinting the perfect mousetrap. <br/>
 								- mr. fox welding the evening away in his workshop. <br/><br/>

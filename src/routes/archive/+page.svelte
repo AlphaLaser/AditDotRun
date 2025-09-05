@@ -21,6 +21,15 @@
   });
 </script>
 
+<!--
+idk a potential list of things i like??? porbs shouldnt include music 
+coz then ts would fet WAY too long (title of your sex tape).
+
+
+
+
+-->
+
 <div class="thin-centered">
 	<nav class="navbar">
 		<div class="navbar-left">
