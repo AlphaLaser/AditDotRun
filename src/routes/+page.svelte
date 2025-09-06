@@ -66,7 +66,6 @@
                             <li>- <a href="https://paebbl.com" target="_blank">paebbl.com</a>: building bedrock kbs, mcp servers, and ai agents.</li>
                             <li>- <a href="https://aaltoes.com" target="_blank">aaltoes.com</a>: founder school + project lead @ build it.</li>
                             <li>- <a href="https://burrow.wtf" target="_blank">burrow.wtf</a>: chrome ext to auto login with a temp mail.</li>
-                            <li>- <a href="https://kaggle.com" target="_blank">kaggle.com</a>: working on some really fun comps with friends.</li>
                             <li>- <a href="https://aalto.fi/en" target="_blank">aalto.fi</a>: bs data science + space tech. </li>   
                         </ul>
 
