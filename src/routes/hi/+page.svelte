@@ -13,7 +13,9 @@
 		</div>
 	</nav>
     <br/><br/>
-	i'll respond fastest on 
+    book a call or an irl meetup (coffee chats are overrated) <a href="https://cal.com/aditm">here</a>
+	<br/><br/>
+	alternatively, i'll respond fastest on 
 	<span class="tooltip-underline">
 		discord
 		<span class="tooltip-box">
