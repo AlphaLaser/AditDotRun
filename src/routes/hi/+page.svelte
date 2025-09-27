@@ -12,7 +12,7 @@
 			<!-- <a href="javascript:void(0)" class="nav-link">placeholder</a> -->
 		</div>
 	</nav>
-    <br/><br/>
+    <br/>
     book a call/irl-meetup (coffee chats are overrated) <a href="https://cal.com/aditm" class="contact-link">here</a>!
 	<br/><br/>
 	alternatively, i'll respond fastest on 
