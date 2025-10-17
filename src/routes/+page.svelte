@@ -65,7 +65,16 @@
                         <ul>
 							<li>- <a href="https://www.linkedin.com/company/lykaapp" target="_blank">lyka.app</a>: launching soon ;)</li>
                             <li>- <a href="https://paebbl.com" target="_blank">paebbl.com</a>: building bedrock kbs, mcp servers, and ai agents.</li>
-							<li>- <a href="https://fi.wikipedia.org/wiki/Aalto_(satelliittisarja)" target="_blank">aaltospace.com</a>: on-board computer team @ aalto-3</li>
+							<li>- <a href="https://fi.wikipedia.org/wiki/Aalto_(satelliittisarja)" target="_blank">aaltospace.com</a>: on-board computer team @ 
+<span class="tooltip-underline">
+								aalto-3
+								<span class="tooltip-box">
+									<span style="font-weight:700;">aalto-3</span> (satellite)<br/>
+									<span style="color:#888;">/ˈɑːlto/</span><br/>
+									the third aalto satellite in the aalto series. aalto-1 was the first satellite built in finland and aalto-2 was the first finnish satellite launched in space (yes they launched before aalto-1 lolol).
+								</span>
+							</span>
+.</li>
                             <li>- <a href="https://aaltoes.com" target="_blank">aaltoes.com</a>: project lead @ build it.</li>
                             <li>- <a href="https://aalto.fi/en" target="_blank">aalto.fi</a>: bs data science + space tech. </li>   
                         </ul>
