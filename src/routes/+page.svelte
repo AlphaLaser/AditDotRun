@@ -63,9 +63,10 @@
 
                         <p><b>WHAT IM UPTO RN</b></p>
                         <ul>
+							<li>- <a href="https://www.linkedin.com/company/lykaapp" target="_blank">lyka.app</a>: launching soon ;)</li>
                             <li>- <a href="https://paebbl.com" target="_blank">paebbl.com</a>: building bedrock kbs, mcp servers, and ai agents.</li>
-                            <li>- <a href="https://aaltoes.com" target="_blank">aaltoes.com</a>: founder school + project lead @ build it.</li>
-                            <li>- <a href="https://burrow.wtf" target="_blank">burrow.wtf</a>: chrome ext to auto login with a temp mail.</li>
+							<li>- <a href="https://fi.wikipedia.org/wiki/Aalto_(satelliittisarja)" target="_blank">aaltospace.com</a>: on-board computer team @ aalto-3</li>
+                            <li>- <a href="https://aaltoes.com" target="_blank">aaltoes.com</a>: project lead @ build it.</li>
                             <li>- <a href="https://aalto.fi/en" target="_blank">aalto.fi</a>: bs data science + space tech. </li>   
                         </ul>
 
