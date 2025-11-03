@@ -63,7 +63,8 @@
 
                         <p><b>WHAT IM UPTO RN</b></p>
                         <ul>
-							<li>- <a href="https://www.linkedin.com/company/lykaapp" target="_blank">lyka.app</a>: launching soon ;)</li>
+							<li>- <a href="https://www.linkedin.com/company/lykaapp" target="_blank">lyka.app</a>: cohort 1.0 of founder school, led by mårten mickos.</li>
+							<li>- <a href="https://nullfellows.com" target="_blank">nullfellows.com</a>: connecting cracked builders with top eu startups.</li>
                             <li>- <a href="https://paebbl.com" target="_blank">paebbl.com</a>: building bedrock kbs, mcp servers, and ai agents.</li>
 							<li>- <a href="https://fi.wikipedia.org/wiki/Aalto_(satelliittisarja)" target="_blank">aaltospace.com</a>: on-board computer team @ 
 <span class="tooltip-underline">
@@ -71,11 +72,10 @@
 								<span class="tooltip-box">
 									<span style="font-weight:700;">aalto-3</span> (satellite)<br/>
 									<span style="color:#888;">/ˈɑːlto/</span><br/>
-									the third aalto satellite in the aalto series. aalto-1 was the first satellite built in finland and aalto-2 was the first finnish satellite launched in space (yes they launched before aalto-1 lolol).
+									successor to aalto-2, the first finnish-built satellite launched into space.
 								</span>
 							</span>
 .</li>
-                            <li>- <a href="https://aaltoes.com" target="_blank">aaltoes.com</a>: project lead @ build it.</li>
                             <li>- <a href="https://aalto.fi/en" target="_blank">aalto.fi</a>: bs data science + space tech. </li>   
                         </ul>
 
@@ -106,6 +106,7 @@
 
                         <p><b>PREVIOUS WORK</b></p>
                         <ul>
+							<li>- <a href="https://aaltoes.com" target="_blank">aaltoes.com</a>: project lead @ build it.</li>
                             <li>- <a href="https://smu.edu.sg" target="_blank">smu.edu.sg</a>: intern @ social nlp lab under dr wei gao.</li>
                             <li>- <a href="https://web.archive.org/web/20240727225148/https://projectbeta.club/" target="_blank">projectbeta.club</a>: tech/startup club president.</li>
                             <li>- <a href="https://web.archive.org/web/20220125185014/https://slingshotahead.com/" target="_blank">slingshotahead.com</a>: growth/community — 10xed their discord.</li>  
