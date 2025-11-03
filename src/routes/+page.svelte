@@ -64,7 +64,7 @@
                         <p><b>WHAT IM UPTO RN</b></p>
                         <ul>
 							<li>- <a href="https://www.linkedin.com/company/lykaapp" target="_blank">lyka.app</a>: cohort 1.0 of founder school, led by mårten mickos.</li>
-							<li>- <a href="https://nullfellows.com" target="_blank">nullfellows.com</a>: connecting cracked builders with top eu startups.</li>
+							<li>- <a href="https://nullfellows.com" target="_blank">nullfellows.com</a>: the global network for european ambition.</li>
                             <li>- <a href="https://paebbl.com" target="_blank">paebbl.com</a>: building bedrock kbs, mcp servers, and ai agents.</li>
 							<li>- <a href="https://fi.wikipedia.org/wiki/Aalto_(satelliittisarja)" target="_blank">aaltospace.com</a>: on-board computer team @ 
 <span class="tooltip-underline">
