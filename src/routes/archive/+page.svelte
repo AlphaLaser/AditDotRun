@@ -44,13 +44,17 @@ coz then ts would fet WAY too long (title of your sex tape).
 			<!-- <a href="javascript:void(0)" class="nav-link">placeholder</a> -->
 		</div>
 	</nav>
-    <br/><br/>
 
-    <center>
+    <!-- <center>
 		⚒️ under construction ⚒️
-    </center>
+    </center> -->
+	<br>ESSAYS: <br>
 
-	<br/><br/>
+	0. <a href="/essays/0">f'(x) = 0: optimizing for 'bare minimum'</a> <br>
+	
+	
+<br>
+	LAST PLAYED SONG:
 
 {#if loading}
   <p>Loading latest song...</p>
@@ -58,10 +62,13 @@ coz then ts would fet WAY too long (title of your sex tape).
   <p style="color: red;">Error: {error}</p>
 {:else}
   <div class="song">
-    <h1>Last Played Song: {song.track.name} by {song.track.artist["#text"]}</h1>
+    <h1>{song.track.name} by {song.track.artist["#text"]}</h1>
 
   </div>
 {/if}
+<br>
+
+
 </div>
 
 <style>
@@ -109,6 +116,16 @@ coz then ts would fet WAY too long (title of your sex tape).
 		text-underline-offset: 2px;
 	}
 	.nav-link:hover {
+		color: #1d4ed8;
+		text-decoration-thickness: 2px;
+	}
+	a {
+		color: #2563eb;
+		text-decoration: underline;
+		text-underline-offset: 2px;
+		transition: color 0.2s;
+	}
+	a:hover {
 		color: #1d4ed8;
 		text-decoration-thickness: 2px;
 	}
