@@ -38,6 +38,7 @@
 								</span>
 							</span>, currently studying at <a href="https://youtu.be/MShbP3OpASA?si=2S4O7T4Cwfd9VN0g&t=2997" target="_blank">aalto</a> in finland, who grew up attending 9 schools in 7 cities across india before graduating from <a href="https://youtu.be/8w8oGfe7TbE" target="_blank">sanskriti school</a>, new delhi.
 						</p>
+						<!-- <br> -->
 
                         <br/><br/>
 
@@ -63,10 +64,9 @@
 
                         <p><b>WHAT IM UPTO RN</b></p>
                         <ul>
-							<li>- <a href="https://www.linkedin.com/company/lykaapp" target="_blank">lyka.app</a>: cohort 1.0 of founder school, led by mårten mickos.</li>
-							<li>- <a href="https://nullfellows.com" target="_blank">nullfellows.com</a>: the global network for european ambition.</li>
-                            <li>- <a href="https://paebbl.com" target="_blank">paebbl.com</a>: building bedrock kbs, mcp servers, and ai agents.</li>
-							<li>- <a href="https://fi.wikipedia.org/wiki/Aalto_(satelliittisarja)" target="_blank">aaltospace.com</a>: on-board computer team @ 
+							<li>- <a href="https://nullfellows.com" target="_blank">nullfellows.com</a>: young outliers + hyperscaler eu startups.</li>
+							<li>- <a href="https://ouraring.com" target="_blank">ouraring.com</a>: founding eng – software innovation team.</li>
+							<!-- <li>- <a href="https://fi.wikipedia.org/wiki/Aalto_(satelliittisarja)" target="_blank">aaltospace.com</a>: on-board computer team @ 
 <span class="tooltip-underline">
 								aalto-3
 								<span class="tooltip-box">
@@ -75,8 +75,8 @@
 									successor to aalto-2, the first finnish-built satellite launched into space.
 								</span>
 							</span>
-.</li>
-                            <li>- <a href="https://aalto.fi/en" target="_blank">aalto.fi</a>: bs data science + space tech. </li>   
+.</li> -->
+                            <li>- <a href="https://aalto.fi/en" target="_blank">aalto.fi</a>: bs data science + minor in physics. </li>   
                         </ul>
 
 						<br/><br/>
@@ -106,6 +106,15 @@
 
                         <p><b>PREVIOUS WORK</b></p>
                         <ul>
+							<li>- <a href="https://www.aalto.fi/en/founder-school/founder-sprint" target="_blank">aalto.fi/sprint</a>: 1/6 handpicked by
+								<span class="tooltip-underline">
+									mårten mickos
+									<span class="tooltip-box">
+										ex-ceo: mysql, hackerone, eucalyptus.
+									</span>
+								</span>, cohort 1.0.
+							</li>
+							<li>- <a href="https://paebbl.com" target="_blank">paebbl.com</a>: built bedrock kbs, mcp servers, and ai agents.</li>
 							<li>- <a href="https://aaltoes.com" target="_blank">aaltoes.com</a>: project lead @ build it.</li>
                             <li>- <a href="https://smu.edu.sg" target="_blank">smu.edu.sg</a>: intern @ social nlp lab under dr wei gao.</li>
                             <li>- <a href="https://web.archive.org/web/20240727225148/https://projectbeta.club/" target="_blank">projectbeta.club</a>: tech/startup club president.</li>
@@ -116,10 +125,12 @@
 
 						<p><b>PROJECTS</b></p>
                         <ul>
+							<li>- <a href="#" target="_blank">sam</a>: ephemeral chat in your terminal.</li>
+							<li>- <a href="#" target="_blank">firefly</a>: tui control center for multi-agent systems.</li>
+							<li>- <a href="#" target="_blank">duplifymcp</a>: agents convert a react app -> swift app.</li>
                             <li>- <a href="#" target="_blank">zapforms</a>: tried replacing typeforms with ai and failed :)</li>
                             <li>- <a href="https://outrageous-web-3bd.notion.site/Beezy-9f1497061a8442678f5c4fef34f1347d" target="_blank">beezy</a>: gmeet -> todo list in real time. lead to research.</li>
                             <li>- <a href="https://www.kaggle.com/datasets/aditmagotra/gameplay-images" target="_blank">dataset</a>: 10k views, 1k downloads, kaggle silver medal.</li>  
-							<li>- <a href="https://github.com/AlphaLaser/ParaTools" target="_blank">paratools</a>: simple summarization + qa but got me noticed :D</li>
 							<li>- <a href="https://www.reddit.com/r/ProgrammerHumor/comments/15spru2/megoingthroughsomeonesrecursivecode/" target="_blank">comic sans</a>: made a handful of comic strips with friends. got 300k+ views just by posting in the correct places.</li>
                         </ul>
 

@@ -48,7 +48,7 @@ coz then ts would fet WAY too long (title of your sex tape).
     <!-- <center>
 		⚒️ under construction ⚒️
     </center> -->
-	<br>ESSAYS: <br>
+	<br>YAP: <br>
 
 	0. <a href="/essays/0">f'(x) = 0: optimizing for 'bare minimum'</a> <br>
 	
