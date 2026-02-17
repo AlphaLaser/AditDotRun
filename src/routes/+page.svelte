@@ -44,10 +44,20 @@
 
                         <p><b>STUFF I DID</b></p>
                         <ul>
+							<li>- 250k+ views, nvidia honbl mention — <a href="https://www.instagram.com/stanfordtreehacks" target="_blank">treehacks</a> @ stanford. </li>
+							<li>- 1/6 handpicked by <span class="tooltip-underline">
+								mårten
+								<span class="tooltip-box">
+									ex-ceo: mysql, hackerone, eucalyptus. 
+									<!-- <br/> -->
+									<br/><br/>
+									ex-board member: nokia, mozilla, nodejs.
+
+								</span>
+							</span> for an intense 13wk founder sprint.</li>
                             <li>- waited 25 min in the parking to meet andrew ng at <a href="https://events.ycombinator.com/ai-sus" target="_blank">yc ai sus</a>.</li>
                             <li>- presented compling research at nml workshop @ neurips'23.</li>
                             <li>- finalist at national science fair (top 1% of 10,000+).</li>
-                            <li>- attended <a href="https://linguistics.osu.edu/undergrad/sliys" target="_blank">linguistics camp</a> at ohio state on $1100 scholly.</li>
                             <li>- nicknamed
 								<span class="tooltip-underline">
 								कबाड़ी
@@ -76,7 +86,7 @@
 								</span>
 							</span>
 .</li> -->
-                            <li>- <a href="https://aalto.fi/en" target="_blank">aalto.fi</a>: bs data science + minor in physics. </li>   
+                            <li>- <a href="https://aalto.fi/en" target="_blank">aalto.fi</a>: bs data science + quantum tech. </li>   
                         </ul>
 
 						<br/><br/>
@@ -106,17 +116,12 @@
 
                         <p><b>PREVIOUS WORK</b></p>
                         <ul>
-							<li>- <a href="https://www.aalto.fi/en/founder-school/founder-sprint" target="_blank">aalto.fi/sprint</a>: 1/6 handpicked by
-								<span class="tooltip-underline">
-									mårten mickos
-									<span class="tooltip-box">
-										ex-ceo: mysql, hackerone, eucalyptus.
-									</span>
-								</span>, cohort 1.0.
+							<li>- <a href="https://www.aalto.fi/en/founder-school/founder-sprint" target="_blank">aalto.fi/sprint</a>: 13 wks of building, pitching, and caffiene.
 							</li>
 							<li>- <a href="https://paebbl.com" target="_blank">paebbl.com</a>: built bedrock kbs, mcp servers, and ai agents.</li>
 							<li>- <a href="https://aaltoes.com" target="_blank">aaltoes.com</a>: project lead @ build it.</li>
                             <li>- <a href="https://smu.edu.sg" target="_blank">smu.edu.sg</a>: intern @ social nlp lab under dr wei gao.</li>
+							<li>- <a href="https://linguistics.osu.edu/undergrad/sliys" target="_blank">osu.edu</a>: attended linguistics camp on full $1100 scholly.</li>
                             <li>- <a href="https://web.archive.org/web/20240727225148/https://projectbeta.club/" target="_blank">projectbeta.club</a>: tech/startup club president.</li>
                             <li>- <a href="https://web.archive.org/web/20220125185014/https://slingshotahead.com/" target="_blank">slingshotahead.com</a>: growth/community — 10xed their discord.</li>  
                         </ul>
@@ -125,6 +130,7 @@
 
 						<p><b>PROJECTS</b></p>
                         <ul>
+							<li>- <a href="" target="_blank">detour</a>: on-board ai agents preventing satellite collisions.</li>
 							<li>- <a href="#" target="_blank">sam</a>: ephemeral chat in your terminal.</li>
 							<li>- <a href="#" target="_blank">firefly</a>: tui control center for multi-agent systems.</li>
 							<li>- <a href="#" target="_blank">duplifymcp</a>: agents convert a react app -> swift app.</li>
