@@ -75,7 +75,7 @@
                         <p><b>WHAT IM UPTO RN</b></p>
                         <ul>
 							<li>- <a href="https://nullfellows.com" target="_blank">nullfellows.com</a>: young outliers + hyperscaler eu startups.</li>
-							<li>- <a href="https://ouraring.com" target="_blank">ouraring.com</a>: founding eng – software innovation team.</li>
+							<li>- <a href="https://ouraring.com" target="_blank">ouraring.com</a>: founding intern – software innovation team.</li>
 							<!-- <li>- <a href="https://fi.wikipedia.org/wiki/Aalto_(satelliittisarja)" target="_blank">aaltospace.com</a>: on-board computer team @ 
 <span class="tooltip-underline">
 								aalto-3
