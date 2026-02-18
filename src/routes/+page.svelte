@@ -44,7 +44,7 @@
 
                         <p><b>STUFF I DID</b></p>
                         <ul>
-							<li>- 400k+ views, nvidia honbl mention — <a href="https://www.instagram.com/stanfordtreehacks" target="_blank">treehacks</a> @ stanford. </li>
+							<li>- 400k+ views, 150 github stars, nvidia hon mention — <a href="https://www.instagram.com/stanfordtreehacks" target="_blank">treehacks</a> @ stanford. </li>
 							<li>- 1/6 handpicked by <span class="tooltip-underline">
 								mårten
 								<span class="tooltip-box">
