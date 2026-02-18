@@ -116,7 +116,7 @@
 
                         <p><b>PREVIOUS WORK</b></p>
                         <ul>
-							<li>- <a href="https://www.aalto.fi/en/founder-school/founder-sprint" target="_blank">aalto.fi/sprint</a>: 13 wks of building, pitching, and caffiene.
+							<li>- <a href="https://www.aalto.fi/en/founder-school/founder-sprint" target="_blank">aalto.fi/sprint</a>: 13 wks of building, pitching, and caffeine.
 							</li>
 							<li>- <a href="https://paebbl.com" target="_blank">paebbl.com</a>: built bedrock kbs, mcp servers, and ai agents.</li>
 							<li>- <a href="https://aaltoes.com" target="_blank">aaltoes.com</a>: project lead @ build it.</li>
