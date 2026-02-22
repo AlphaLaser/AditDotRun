@@ -130,7 +130,8 @@
 
 						<p><b>PROJECTS</b></p>
                         <ul>
-							<li>- <a href="" target="_blank">detour</a>: on-board ai agents preventing satellite collisions.</li>
+							<li>- <a href="https://introbee.buzz" target="_blank">sam</a>: removing the awkwardness from intros.</li>
+							<li>- <a href="https://github.com/keanucz/detour" target="_blank">detour</a>: on-board ai agents preventing satellite collisions.</li>
 							<li>- <a href="#" target="_blank">sam</a>: ephemeral chat in your terminal.</li>
 							<li>- <a href="#" target="_blank">firefly</a>: tui control center for multi-agent systems.</li>
 							<li>- <a href="#" target="_blank">duplifymcp</a>: agents convert a react app -> swift app.</li>
