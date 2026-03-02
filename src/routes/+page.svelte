@@ -75,7 +75,7 @@
                         <p><b>WHAT IM UPTO RN</b></p>
                         <ul>
 							<li>- <a href="https://nullfellows.com" target="_blank">nullfellows.com</a>: young outliers + hyperscaler eu startups.</li>
-							<li>- <a href="https://ouraring.com" target="_blank">ouraring.com</a>: founding intern – software innovation team.</li>
+							<li>- <a href="https://ouraring.com" target="_blank">ouraring.com</a>: ourafarming (software innovation eng)</li>
 							<!-- <li>- <a href="https://fi.wikipedia.org/wiki/Aalto_(satelliittisarja)" target="_blank">aaltospace.com</a>: on-board computer team @ 
 <span class="tooltip-underline">
 								aalto-3
@@ -134,7 +134,6 @@
 							<li>- <a href="https://github.com/keanucz/detour" target="_blank">detour</a>: on-board ai agents preventing satellite collisions.</li>
 							<li>- <a href="#" target="_blank">sam</a>: ephemeral chat in your terminal.</li>
 							<li>- <a href="#" target="_blank">firefly</a>: tui control center for multi-agent systems.</li>
-							<li>- <a href="#" target="_blank">duplifymcp</a>: agents convert a react app -> swift app.</li>
                             <li>- <a href="#" target="_blank">zapforms</a>: tried replacing typeforms with ai and failed :)</li>
                             <li>- <a href="https://outrageous-web-3bd.notion.site/Beezy-9f1497061a8442678f5c4fef34f1347d" target="_blank">beezy</a>: gmeet -> todo list in real time. lead to research.</li>
                             <li>- <a href="https://www.kaggle.com/datasets/aditmagotra/gameplay-images" target="_blank">dataset</a>: 10k views, 1k downloads, kaggle silver medal.</li>  
