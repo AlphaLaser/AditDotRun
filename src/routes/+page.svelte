@@ -74,7 +74,7 @@
 
                         <p><b>WHAT IM UPTO RN</b></p>
                         <ul>
-							<li>- <a href="https://nullfellows.com" target="_blank">nullfellows.com</a>: backing young outliers before anyone else.</li>
+							<li>- <a href="https://nullfellows.com" target="_blank">nullfellows.com</a>: finding young outliers before anyone else.</li>
 							<li>- <a href="https://ouraring.com" target="_blank">ouraring.com</a>: ourafarming (software innovation eng)</li>
 							<!-- <li>- <a href="https://fi.wikipedia.org/wiki/Aalto_(satelliittisarja)" target="_blank">aaltospace.com</a>: on-board computer team @ 
 <span class="tooltip-underline">
