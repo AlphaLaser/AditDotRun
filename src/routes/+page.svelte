@@ -1,3 +1,7 @@
+<script lang="ts">
+	import DinoWalker from '$lib/components/DinoWalker.svelte';
+</script>
+
 <svelte:head>
 	<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet" />
 	<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -20,6 +24,7 @@
 			<a href="/hi" class="nav-link">say(hi)</a>
 			<!-- <a href="javascript:void(0)" class="nav-link">placeholder</a> -->
 		</div>
+		<DinoWalker />
 	</nav>
 		<main style="margin-top:2.5rem;">
 			 <h1>
@@ -159,7 +164,8 @@
 			background: white;
 			z-index: 10;
 			border-bottom: 1px solid #eee;
-			position: static;
+			position: relative;
+			overflow: hidden;
 		}
 		.navbar-left {
 			font-weight: 700;

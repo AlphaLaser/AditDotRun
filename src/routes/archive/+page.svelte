@@ -1,5 +1,6 @@
 <script>
   import { onMount } from "svelte";
+  import DinoWalker from "$lib/components/DinoWalker.svelte";
 
   let song = null;
   let loading = true;
@@ -43,6 +44,7 @@ coz then ts would fet WAY too long (title of your sex tape).
 			<a href="/hi" class="nav-link">say(hi)</a>
 			<!-- <a href="javascript:void(0)" class="nav-link">placeholder</a> -->
 		</div>
+		<DinoWalker />
 	</nav>
 
     <!-- <center>
@@ -94,7 +96,8 @@ coz then ts would fet WAY too long (title of your sex tape).
 		background: white;
 		z-index: 10;
 		border-bottom: 1px solid #eee;
-		position: static;
+		position: relative;
+		overflow: hidden;
 	}
 	.navbar-left {
 		font-weight: 700;

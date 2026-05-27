@@ -1,3 +1,7 @@
+<script lang="ts">
+	import DinoWalker from '$lib/components/DinoWalker.svelte';
+</script>
+
 <div class="thin-centered">
 	<nav class="navbar">
 		<div class="navbar-left">
@@ -11,6 +15,7 @@
 			<a href="/hi" class="nav-link">say(hi)</a>
 			<!-- <a href="javascript:void(0)" class="nav-link">placeholder</a> -->
 		</div>
+		<DinoWalker />
 	</nav>
 
     <br/><br/>
@@ -88,7 +93,8 @@ the beauty of this point of view is that it can be broken down even further and 
 		background: white;
 		z-index: 10;
 		border-bottom: 1px solid #eee;
-		position: static;
+		position: relative;
+		overflow: hidden;
 	}
 	.navbar-left {
 		font-weight: 700;
