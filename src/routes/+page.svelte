@@ -28,7 +28,7 @@
 					𑠁𑠛𑠭𑠙
 				</span>
 			</h1>
-			<p>i’m a 19y/o army 
+			<p>i’m a 20y/o army 
 							<span class="tooltip-underline">
 								brat
 								<span class="tooltip-box">
