@@ -13,7 +13,7 @@
 		</div>
 	</nav>
     <br/>
-    book a call/irl-meetup (coffee chats are overrated) <a href="https://cal.com/aditm" class="contact-link">here</a>!
+    book a call/irl-meetup (coffee chats are overrated) <a href="https://cal.com/aditmag" class="contact-link">here</a>!
 	<br/><br/>
 	alternatively, i'll respond fastest on 
 	<span class="tooltip-underline">
