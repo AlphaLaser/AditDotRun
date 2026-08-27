@@ -1,4 +1,5 @@
 <script>
+  /*
   import { onMount } from "svelte";
 
   let song = null;
@@ -19,6 +20,7 @@
       loading = false;
     }
   });
+  */
 </script>
 
 <!--
@@ -39,7 +41,7 @@ coz then ts would fet WAY too long (title of your sex tape).
 		</div>
 		<div class="navbar-right">
 			<!-- <a href="/essays" class="nav-link">home</a> -->
-			<a href="/archive" class="nav-link">random(archive)</a>
+			<a href="/archive" class="nav-link">random(stuff)</a>
 			<a href="/hi" class="nav-link">say(hi)</a>
 			<!-- <a href="javascript:void(0)" class="nav-link">placeholder</a> -->
 		</div>
@@ -48,25 +50,46 @@ coz then ts would fet WAY too long (title of your sex tape).
     <!-- <center>
 		⚒️ under construction ⚒️
     </center> -->
-	<br>YAP: <br>
-
-	0. <a href="/essays/0">f'(x) = 0: optimizing for 'bare minimum'</a> <br>
-	
-	
-<br>
+	<br>ME, MYSELF, AND I: <br>
+	<a href="https://substack.com/@aditmag" target="_blank">substack</a>, <a href="https://letterboxd.com/aditmag" target="_blank">letterboxd</a>, <a href="https://www.last.fm/user/The_AlphaLaser" target="_blank">last.fm</a><br>
+	<br>
+	CURATED LINKS: <br>
+	<a href="http://www.incompleteideas.net/IncIdeas/BitterLesson.html" target="_blank">the bitter lesson</a><br>
+	<a href="https://xkcd.com/2390/" target="_blank">computational linguists - xkcd</a><br>
+	<a href="https://paulgraham.com/ambitious.html" target="_blank">frighteningly ambitious startup ideas</a><br>
+	<a href="https://www.instagram.com/reels/DS9USsRE4ai/" target="_blank">adorable cat video</a><br>
+	<a href="https://cdn.mos.cms.futurecdn.net/QfLVpW7bGiruhRX3TpLqna.jpeg" target="_blank">1970 nike manifesto</a><br>
+	<a href="https://www.youtube.com/watch?v=eSvLFPFXjc8" target="_blank">field marshall sam manekshaw on leadership</a><br>
+	<a href="https://www.instagram.com/reels/DJxgsSQy51D/" target="_blank">feel good inc mini cover</a><br>
+	<br>
+	PHOTOS THAT MAKE ME FEEL THINGS: <br>
+	<div class="photo-masonry">
+		<img src="/photos/puf89elf9uf81.jpg" alt="" />
+		<img src="/photos/unnamed-2.jpg" alt="" />
+		<img src="/photos/image7.jpeg" alt="" />
+		<img src="/photos/First_flight2.jpg" alt="" />
+		<img src="/photos/83549e13513a802a238631da9de651e0.jpg" alt="" />
+		<img src="/photos/c90b19c991a299f57cdf6c0de0b3a900.jpg" alt="" />
+		<img src="/photos/Nikola_Tesla.jpg" alt="" />
+		<img src="/photos/Dolly_the_Sheep.jpg" alt="" />
+		<img src="/photos/12856.jpg" alt="" />
+	</div>
+	<!--
+	<br>
 	LAST PLAYED SONG:
 
-{#if loading}
-  <p>Loading latest song...</p>
-{:else if error}
-  <p style="color: red;">Error: {error}</p>
-{:else}
-  <div class="song">
-    <h1>{song.track.name} by {song.track.artist["#text"]}</h1>
+	{#if loading}
+	  <p>Loading latest song...</p>
+	{:else if error}
+	  <p style="color: red;">Error: {error}</p>
+	{:else}
+	  <div class="song">
+		<h1>{song.track.name} by {song.track.artist["#text"]}</h1>
 
-  </div>
-{/if}
-<br>
+	  </div>
+	{/if}
+	<br>
+	-->
 
 
 </div>
@@ -202,5 +225,17 @@ coz then ts would fet WAY too long (title of your sex tape).
 		object-fit: cover;
 		border-radius: 6px;
 		margin: 0.5rem 0;
+	}
+	.photo-masonry {
+		column-count: 4;
+		column-gap: 6px;
+		margin-top: 0.5rem;
+	}
+	.photo-masonry img {
+		width: 100%;
+		height: auto;
+		display: block;
+		margin-bottom: 6px;
+		break-inside: avoid;
 	}
 </style>

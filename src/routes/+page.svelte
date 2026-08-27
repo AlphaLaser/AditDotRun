@@ -16,7 +16,7 @@
 		</div>
 		<div class="navbar-right">
 			<!-- <a href="/essays" class="nav-link">home</a> -->
-			<a href="/archive" class="nav-link">random(archive)</a>
+			<a href="/archive" class="nav-link">random(stuff)</a>
 			<a href="/hi" class="nav-link">say(hi)</a>
 			<!-- <a href="javascript:void(0)" class="nav-link">placeholder</a> -->
 		</div>
